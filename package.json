@@ -18,9 +18,6 @@
     "url": "https://github.com/zhewangjoe/ember-precompile-brunch/issues"
   },
   "homepage": "https://github.com/zhewangjoe/ember-precompile-brunch",
-  "engines": {
-    "node": "^4.0.0"
-  },
   "dependencies": {
     "coffee-script": "1.4.0",
     "jsdom": "^9.0.0"
